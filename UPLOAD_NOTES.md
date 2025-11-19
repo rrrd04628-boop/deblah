@@ -1,5 +1,5 @@
 UPLOAD NOTES
-
+ادخل علئ هاذي المسارات و سوي استراج الملفات فقط
 قائمة الملفات الحسّاسة المكتشفة في المشروع (المسار الكامل):
 
 - C:\Users\redwan\Desktop\gg\webly_flutter2\zextern\deblatna-firebase-adminsdk-fbsvc-362c1b9da7.json
