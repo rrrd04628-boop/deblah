@@ -15,6 +15,9 @@ build/
 # VS Code
 .vscode/
 
+# Gradle
+.gradle/
+**/.gradle/
 
 # CocoaPods
 Pods/
@@ -25,4 +28,10 @@ Pods/
 
 # Misc
 *.log
-pubspec.lock
+
+# Local config
+.env
+.env.*
+
+# macOS
+.DS_Store
