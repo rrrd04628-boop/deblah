@@ -1,15 +1,9 @@
-ادخل علئ هاذي المسارات و سوي استراج الملفات فقط
+ادخل علئ هاذي المسارات و سوي استراج الملفات ضغط
 
 
-قائمة الملفات الحسّاسة المكتشفة في المشروع (المسار الكامل):
-
-- C:\Users\redwan\Desktop\gg\webly_flutter2\zextern\deblatna-firebase-adminsdk-fbsvc-362c1b9da7.json
-- C:\Users\redwan\Desktop\gg\webly_flutter2\zextern\keys\deblatna-release-key.jks
-- C:\Users\redwan\Desktop\gg\webly_flutter2\deblatna-release-key.jks
-- C:\Users\redwan\Desktop\gg\webly_flutter2\android\app\deblatna-release-key.jks  (also present in zextern)
-- C:\Users\redwan\Desktop\gg\webly_flutter2\android\app\google-services.json
-- C:\Users\redwan\Desktop\gg\webly_flutter2\android\app\key.properties
-- C:\Users\redwan\Desktop\gg\webly_flutter2\android\local.properties
+- C:\Users\redwan\Desktop\gg\webly_flutter2\zextern
+- C:\Users\redwan\Desktop\gg\webly_flutter2
+- C:\Users\redwan\Desktop\gg\webly_flutter2\android\app
 
 ملاحظة: بعض ملفات الـ JSON الموجودة في مجلد `build/` وملفات اللغة (`lang/*.json`) ليست بالضرورة "أسرار" — لكنها ظهرت عند البحث لأن البحث شمل كل ملفات JSON. الملفات الحسّاسة الحقيقية موضّحة أعلاه.
 
